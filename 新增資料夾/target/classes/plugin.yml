@@ -1,0 +1,11 @@
+name: CollectionSystem
+version: 1.0.0
+main: com.collection.collectionsystem.PluginCore
+api-version: 1.20
+description: Collection System Plugin
+authors: [Dev]
+commands:
+  col:
+    description: Open collection menu
+    usage: /col
+    aliases: [collection]

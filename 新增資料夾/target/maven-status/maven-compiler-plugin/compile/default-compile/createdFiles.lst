@@ -1,0 +1,4 @@
+com\collection\collectionsystem\PluginCore.class
+com\collection\collectionsystem\CollectListener.class
+com\collection\collectionsystem\DbHandler.class
+com\collection\collectionsystem\MenuBuilder.class
