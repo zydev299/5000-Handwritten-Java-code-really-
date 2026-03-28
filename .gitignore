@@ -1,0 +1,8 @@
+target/
+testserver/libraries/
+testserver/logs/
+testserver/world/
+testserver/world_nether/
+testserver/world_the_end/
+testserver/cache/
+testserver/plugins/CollectionSystem/
